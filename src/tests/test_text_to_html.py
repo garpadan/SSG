@@ -1,6 +1,6 @@
 import unittest
 
-from text_to_html import *
+from src.text_to_html import *
 
 class TestTextNode(unittest.TestCase):
     def test_text(self):
