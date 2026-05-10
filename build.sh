@@ -1,1 +1,1 @@
-python3 src/main.py "/garpadan/SSG/"
+python3 src/main.py "/SSG/"
